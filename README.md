@@ -1,6 +1,6 @@
 # Comp 271 Assignment One: Search Algorithms
 
-## Due date: November 8, 2022, 6:00pm
+## Due date: March 28, 2023, 6:00pm
 
 ### Step One - Fork the repository to your own GitHub space and clone your forked repository - 5 points
 
